@@ -50,7 +50,3 @@ fn test_elem_constructor() {
         _ => false,
     })
 }
-
-fn main() {
-
-}

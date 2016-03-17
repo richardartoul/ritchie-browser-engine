@@ -1,0 +1,4 @@
+[package]
+name = "ritchie-browser-engine"
+version = "0.1.0"
+authors = ["Myles Byrne <myles@myles.id.au>"]
